@@ -5,7 +5,7 @@
 Please help with a :star: if you like my work :bowtie:
 
 # Code-Sleep-Koltin #
-A repository of Android apps developed using Kotlin
+A Repository of Android apps developed using Kotlin
 
 ## App Preview ##
 ### Alarm manager App ###
