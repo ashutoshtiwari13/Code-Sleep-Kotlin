@@ -2,10 +2,10 @@
 ![](https://img.shields.io/badge/Android%20projects%20with%20-passion-yellowgreen.svg)
 ![](https://img.shields.io/badge/code--sleep--repeat-%3C3-red.svg)
 
-Please help with a :star: if you like my work :bowtie:
+Please help with a :star: if you like my Work :bowtie:
 
 # Code-Sleep-Koltin #
-A repository of Android apps developed using Kotlin programming Language.
+A Repository of Android apps developed using Kotlin programming Language.
 
 ## App Preview ##
 ### Alarm manager App ###
