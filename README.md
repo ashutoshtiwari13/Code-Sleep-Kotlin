@@ -5,7 +5,7 @@
 Please help with a :star: if you like my Work :bowtie:
 
 # Code-Sleep-Koltin #
-A Repository of android apps developed using Kotlin programming Language.
+A Repository of android apps developed using Kotlin programming language.
 
 ## App Preview ##
 ### Alarm manager App ###
