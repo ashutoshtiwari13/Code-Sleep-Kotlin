@@ -4,27 +4,27 @@
 
 Please help with a :star: if you like my work :bowtie:
 
-# Code-Sleep-Koltin #
+# Code-Sleep-Koltin
 A Repository of android apps developed using Kotlin programming language.
 
-## App Preview ##
-### Alarm manager App ###
+## App Preview
+### Alarm manager App
 ![alt text](https://github.com/ashutoshtiwari13/Code-Sleep-Kotlin/blob/master/ALarmManager2.png)
 
 ![alt text](https://github.com/ashutoshtiwari13/Code-Sleep-Kotlin/blob/master/AlarmManger3.png)
 
-### Note Making App ###
+### Note Making App
 ![alt text](https://github.com/ashutoshtiwari13/Code-Sleep-Kotlin/blob/master/NoteApp.png)
 
-### Twitter Clone Service App ###
+### Twitter Clone Service App 
 ![alt text](https://github.com/ashutoshtiwari13/Code-Sleep-Kotlin/blob/master/TwitterApp1.png)
 
 ![alt text](https://github.com/ashutoshtiwari13/Code-Sleep-Kotlin/blob/master/TwitterApp2.png)
 
 ![alt text](https://github.com/ashutoshtiwari13/Code-Sleep-Kotlin/blob/master/TwitterApp3.png)
 
-### PokeMOn Go App ###
+### PokeMOn Go App 
 ![alt text](https://github.com/ashutoshtiwari13/Code-Sleep-Kotlin/blob/master/pokemon.png)
 
-### Tik-tac-Toy App ###
+### Tik-tac-Toy App
 ![alt text](https://github.com/ashutoshtiwari13/Code-Sleep-Kotlin/blob/master/tiktoy.png)
